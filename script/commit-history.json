@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Josue-Camacho",
+    "commit": {
+      "date": "2026-02-12T01:14:59.000Z",
+      "message": "feat:add multiplicar",
+      "url": "/commit/HEAD"
+    },
+    "stats": {
+      "total": 29961,
+      "additions": 29961,
+      "deletions": 0,
+      "date": "2026-02-12"
+    },
+    "coverage": 50,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
