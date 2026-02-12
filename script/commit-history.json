@@ -19,17 +19,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "95cfdbfbb777424bb733e29e95a6a58784fccf80",
     "author": "Josue-Camacho",
     "commit": {
       "date": "2026-02-12T01:18:22.000Z",
       "message": "feat:add multiplicar test",
-      "url": "https://github.com/Josue-Camacho/Multiplicar/commit/HEAD"
+      "url": "https://github.com/Josue-Camacho/Multiplicar/commit/95cfdbfbb777424bb733e29e95a6a58784fccf80"
     },
     "stats": {
       "total": 8,
       "additions": 6,
       "deletions": 2,
+      "date": "2026-02-12"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Josue-Camacho",
+    "commit": {
+      "date": "2026-02-12T01:19:49.000Z",
+      "message": "feat:add multiplicar nuevo boton",
+      "url": "https://github.com/Josue-Camacho/Multiplicar/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 9,
+      "deletions": 1,
       "date": "2026-02-12"
     },
     "coverage": 100,
